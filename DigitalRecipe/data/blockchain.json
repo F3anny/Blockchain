@@ -1,0 +1,74 @@
+[
+  {
+    "index": 0,
+    "timestamp": 1763631707.541,
+    "title": "Genesis Recipe",
+    "ingredients": [
+      "love",
+      "curiosity"
+    ],
+    "steps": [
+      "Boot the blockchain."
+    ],
+    "creator": "system",
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "nonce": 24,
+    "hash": "0062bc688ce8b7029258f9426894300183b091f0f64a2c95da81abafccdcae26"
+  },
+  {
+    "index": 1,
+    "timestamp": 1763631707.553,
+    "title": "CLI Test",
+    "ingredients": [
+      "water"
+    ],
+    "steps": [
+      "boil"
+    ],
+    "creator": "cli",
+    "previous_hash": "0062bc688ce8b7029258f9426894300183b091f0f64a2c95da81abafccdcae26",
+    "nonce": 2,
+    "hash": "0afe9dee8ea5a94e6d485403e6f784daa4926366092cce7401a8dade4d9b4612"
+  },
+  {
+    "index": 2,
+    "timestamp": 1763704747.658,
+    "title": "Test Recipe",
+    "ingredients": [
+      "flour",
+      "eggs",
+      "milk"
+    ],
+    "steps": [
+      "Mix ingredients",
+      "Cook"
+    ],
+    "creator": "Test User",
+    "previous_hash": "0afe9dee8ea5a94e6d485403e6f784daa4926366092cce7401a8dade4d9b4612",
+    "nonce": 710,
+    "hash": "00026e4415cc15c54dc88268e85df2fefab2bdcb3306da8483102f54bc152b45"
+  },
+  {
+    "index": 3,
+    "timestamp": 1763705616.475,
+    "title": "chips",
+    "ingredients": [
+      "potatoes",
+      "seasoning",
+      "milk",
+      "eggs"
+    ],
+    "steps": [
+      "cut the potatoes",
+      "boil them with seasoning",
+      "smah them",
+      "put in eggs and milk",
+      "make the shape desired",
+      "cook"
+    ],
+    "creator": "fanny",
+    "previous_hash": "00026e4415cc15c54dc88268e85df2fefab2bdcb3306da8483102f54bc152b45",
+    "nonce": 939,
+    "hash": "0009ca0693885a888164e83d531b1479e90371f67dc1bd704896ae854b26e081"
+  }
+]
