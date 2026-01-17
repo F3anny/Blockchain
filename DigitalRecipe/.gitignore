@@ -1,0 +1,9 @@
+# Node modules folder
+node_modules/
+
+# Hardhat build artifacts
+artifacts/
+cache/
+
+# Environment files
+.env
